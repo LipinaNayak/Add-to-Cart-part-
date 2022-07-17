@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');  
+*{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    font-family: 'Mulish', sans-serif; 
+} 
+
+.button_data {
+
+    text-align: right;
+
+}
+
+ 
+.product_img img { min-width: 200px; max-height: 200px; }
+.product_name{
+    text-align: right;
+}
+
+
